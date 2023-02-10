@@ -1,0 +1,21 @@
+
+9
+	build.sbt,7\4\74b95601c3a6d9d565cd312fac64094ec0f9d847
+e
+5src/main/scala/wikigraph/implementations/Sqlite.scala,a\9\a92f2d9d5e902bc96ee3bacf7bd6efd786bff474
+g
+7src/main/scala/wikigraph/implementations/InMemory.scala,b\c\bc9bd2bc815410baf9320f09e7811201f705bbdd
+S
+#src/main/scala/wikigraph/Main.scala,2\f\2f6154169624f52cd199a114ba5109e7371695cb
+X
+(src/main/scala/wikigraph/Wikipedia.scala,e\2\e25d9abee498016cb77553d7db559dfa946544a2
+U
+%src/main/scala/wikigraph/Errors.scala,8\2\82148cf174b8b97424f5673aa9c70c6df58f2ab7
+W
+'src/main/scala/wikigraph/Articles.scala,1\0\10ef4de2ed957a5f4fb4de560eca0610e9b70757
+Y
+)src/main/scala/wikigraph/WikiResult.scala,d\8\d8298b5c41d3a758c87478591056bb5192e4e505
+]
+-src/test/scala/wikigraph/WikigraphSuite.scala,0\4\049b976a3ceee25b9021fdfaeee1bcac7772dc78
+X
+(src/main/scala/wikigraph/Wikigraph.scala,2\d\2d535ba12f6329cbfb881ada1f58c4bdbea73ca6
